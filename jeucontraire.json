@@ -91,7 +91,7 @@
 },
 {
 "mot":"VRAI",
-"contraire":["FAUX","FALSSE","INEXACT"],
+"contraire":["FAUX","ERRONÉ","INEXACT"],
 "difficulte":1
 },
 {
@@ -156,7 +156,7 @@
 },
 {
 "mot":"FIN",
-"contraire":["DÉBUT","COMMENCEMENT","NAISSANCE"],
+"contraire":["DÉBUT","COMMENCEMENT","NAISSANCE","aube","origine"],
 "difficulte":1
 },
 {
@@ -166,7 +166,7 @@
 },
 {
 "mot":"SORTIR",
-"contraire":["ENTRER","REVENIR","PÉNÉTRER"],
+"contraire":["ENTRER","RESTER","DEMEURER"],
 "difficulte":1
 },
 {
@@ -181,12 +181,12 @@
 },
 {
 "mot":"GAGNER",
-"contraire":["PERDRE","ÉCHOUER","ÉCHOUER"],
+"contraire":["PERDRE","RATER","ÉCHOUER"],
 "difficulte":1
 },
 {
 "mot":"PERDRE",
-"contraire":["GAGNER","VAINCRE","REMporter"],
+"contraire":["GAGNER","VAINCRE","REMPORTER"],
 "difficulte":1
 },
 {
@@ -221,12 +221,12 @@
 },
 {
 "mot":"APPARAÎTRE",
-"contraire":["DISPARAÎTRE","S'EFFACER","PARTIR"],
+"contraire":["DISPARAÎTRE","S'EFFACER","S'ÉCLIPSER"],
 "difficulte":3
 },
 {
 "mot":"DISPARAÎTRE",
-"contraire":["APPARAÎTRE","SURGIR","VENIR"],
+"contraire":["APPARAÎTRE","SURGIR","réapparaître","éclore","jaillir"],
 "difficulte":3
 },
 {
@@ -317,7 +317,7 @@
 },
 {
 "mot":"DERNIER",
-"contraire":["PREMIER","INITIAL","PREMIER NÉ"],
+"contraire":["PREMIER","INITIAL","devant","initiale"],
 "difficulte":1
 },
 {
@@ -382,7 +382,7 @@
 },
 {
 "mot":"OUVRIR",
-"contraire":["FERMER","CLOSER","BLOQUER"],
+"contraire":["FERMER","boucher","BLOQUER", "refermer","clôturer"],
 "difficulte":1
 },
 {
@@ -523,6 +523,6 @@
     "mot": "ARIDE",
     "contraire": ["FERTILE", "HUMIDE", "LUXURIANT"],
     "difficulte": 3
-  },
+  }
   
 ]
