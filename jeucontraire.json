@@ -524,8 +524,7 @@
     "contraire": ["FERTILE", "HUMIDE", "LUXURIANT"],
     "difficulte": 3
   },
-
-  
+ 
 {
 "mot":"ACCÉLÉRER",
 "contraire":["RALENTIR","FREINER","DIMINUER"],
@@ -713,7 +712,7 @@
 },
 {
 "mot":"IMMOBILE",
-"contraire":["MOBILE","MOUVEMENT","ACTIF","mouvant","fluctuant","remuant"],
+"contraire":["MOBILE","EN MOUVEMENT","ACTIF","mouvant","fluctuant","remuant"],
 "difficulte":2
 },
 {
