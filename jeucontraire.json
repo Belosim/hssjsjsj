@@ -1,412 +1,528 @@
 [
 {
 "mot":"OUVERT",
-"contraire":["FERMÉ"],
+"contraire":["FERMÉ","CLOS","BARRÉ"],
 "difficulte":1
 },
 {
 "mot":"CHAUD",
-"contraire":["FROID"],
+"contraire":["FROID","GLACÉ","FRAIS"],
 "difficulte":1
 },
 {
 "mot":"GRAND",
-"contraire":["PETIT"],
+"contraire":["PETIT","MINUSCULE","RÉDUIT"],
 "difficulte":1
 },
 {
 "mot":"HAUT",
-"contraire":["BAS"],
+"contraire":["BAS","INFÉRIEUR","ABAISSÉ"],
 "difficulte":1
 },
 {
 "mot":"LONG",
-"contraire":["COURT"],
+"contraire":["COURT","BREF","PETIT"],
 "difficulte":1
 },
 {
 "mot":"LARGE",
-"contraire":["ÉTROIT"],
+"contraire":["ÉTROIT","FIN","SERRÉ"],
 "difficulte":2
 },
 {
 "mot":"RAPIDE",
-"contraire":["LENT"],
+"contraire":["LENT","LENTEMENT","RALENTI"],
 "difficulte":1
 },
 {
 "mot":"FORT",
-"contraire":["FAIBLE"],
+"contraire":["FAIBLE","FRAGILE","DÉLICAT"],
 "difficulte":1
 },
 {
 "mot":"VIEUX",
-"contraire":["JEUNE"],
+"contraire":["JEUNE","RÉCENT","NOUVEAU"],
 "difficulte":1
 },
 {
 "mot":"JEUNE",
-"contraire":["VIEUX"],
+"contraire":["VIEUX","ANCIEN","VIEILLI"],
 "difficulte":1
 },
 {
 "mot":"RICHE",
-"contraire":["PAUVRE"],
+"contraire":["PAUVRE","DÉMUNI","MISÉRABLE"],
 "difficulte":1
 },
 {
 "mot":"PLEIN",
-"contraire":["VIDE"],
+"contraire":["VIDE","CREUX","DÉGARNI"],
 "difficulte":1
 },
 {
 "mot":"PROPRE",
-"contraire":["SALE"],
+"contraire":["SALE","SALI","MALPROPRE"],
 "difficulte":1
 },
 {
 "mot":"SALE",
-"contraire":["PROPRE"],
+"contraire":["PROPRE","NET","HYGIÉNIQUE"],
 "difficulte":1
 },
 {
 "mot":"JOUR",
-"contraire":["NUIT"],
+"contraire":["NUIT","OBSCURITÉ","TÉNÈBRES"],
 "difficulte":1
 },
 {
 "mot":"NUIT",
-"contraire":["JOUR"],
+"contraire":["JOUR","MATIN","LUMIÈRE"],
 "difficulte":1
 },
 {
 "mot":"LUMIÈRE",
-"contraire":["OMBRE"],
+"contraire":["OMBRE","OBSCURITÉ","TÉNÈBRE"],
 "difficulte":1
 },
 {
 "mot":"OMBRE",
-"contraire":["LUMIÈRE"],
+"contraire":["LUMIÈRE","CLARTÉ","ÉCLAT"],
 "difficulte":1
 },
 {
 "mot":"VRAI",
-"contraire":["FAUX"],
+"contraire":["FAUX","FALSSE","INEXACT"],
 "difficulte":1
 },
 {
 "mot":"FAUX",
-"contraire":["VRAI"],
+"contraire":["VRAI","RÉEL","AUTHENTIQUE"],
 "difficulte":1
 },
 {
 "mot":"BON",
-"contraire":["MAUVAIS"],
+"contraire":["MAUVAIS","MAL","NÉGATIF"],
 "difficulte":1
 },
 {
 "mot":"MAUVAIS",
-"contraire":["BON"],
+"contraire":["BON","BIEN","POSITIF"],
 "difficulte":1
 },
 {
 "mot":"HEUREUX",
-"contraire":["TRISTE"],
+"contraire":["TRISTE","MALHEUREUX","DÉPRIMÉ"],
 "difficulte":1
 },
 {
 "mot":"TRISTE",
-"contraire":["HEUREUX"],
+"contraire":["HEUREUX","JOYEUX","CONTENT"],
 "difficulte":1
 },
 {
 "mot":"AMOUR",
-"contraire":["HAINE"],
+"contraire":["HAINE","DÉTESTATION","REJET"],
 "difficulte":2
 },
 {
 "mot":"HAINE",
-"contraire":["AMOUR"],
+"contraire":["AMOUR","AFFECTION","TENDRESSE"],
 "difficulte":2
 },
 {
 "mot":"PAIX",
-"contraire":["GUERRE"],
+"contraire":["GUERRE","CONFLIT","BATAILLE"],
 "difficulte":2
 },
 {
 "mot":"GUERRE",
-"contraire":["PAIX"],
+"contraire":["PAIX","CALME","HARMONIE"],
 "difficulte":2
 },
 {
 "mot":"ORDRE",
-"contraire":["CHAOS"],
+"contraire":["CHAOS","DÉSORDRE","PAGAILLE"],
 "difficulte":2
 },
 {
 "mot":"CHAOS",
-"contraire":["ORDRE"],
+"contraire":["ORDRE","ORGANISATION","STRUCTURE"],
 "difficulte":2
 },
 {
 "mot":"DÉBUT",
-"contraire":["FIN"],
+"contraire":["FIN","TERMINAISON","CONCLUSION"],
 "difficulte":1
 },
 {
 "mot":"FIN",
-"contraire":["DÉBUT"],
+"contraire":["DÉBUT","COMMENCEMENT","NAISSANCE"],
 "difficulte":1
 },
 {
 "mot":"ENTRER",
-"contraire":["SORTIR"],
+"contraire":["SORTIR","PARTIR","QUITTER"],
 "difficulte":1
 },
 {
 "mot":"SORTIR",
-"contraire":["ENTRER"],
+"contraire":["ENTRER","REVENIR","PÉNÉTRER"],
 "difficulte":1
 },
 {
 "mot":"MONTER",
-"contraire":["DESCENDRE"],
+"contraire":["DESCENDRE","BAISSER","CHUTER"],
 "difficulte":1
 },
 {
 "mot":"DESCENDRE",
-"contraire":["MONTER"],
+"contraire":["MONTER","GRIMPER","S'ÉLEVER"],
 "difficulte":1
 },
 {
 "mot":"GAGNER",
-"contraire":["PERDRE"],
+"contraire":["PERDRE","ÉCHOUER","ÉCHOUER"],
 "difficulte":1
 },
 {
 "mot":"PERDRE",
-"contraire":["GAGNER"],
+"contraire":["GAGNER","VAINCRE","REMporter"],
 "difficulte":1
 },
 {
 "mot":"ACHETER",
-"contraire":["VENDRE"],
+"contraire":["VENDRE","CÉDER","DONNER"],
 "difficulte":1
 },
 {
 "mot":"VENDRE",
-"contraire":["ACHETER"],
+"contraire":["ACHETER","RECEVOIR","GARDER"],
 "difficulte":1
 },
 {
 "mot":"ACCEPTER",
-"contraire":["REFUSER"],
+"contraire":["REFUSER","REJETER","DÉCLINER"],
 "difficulte":2
 },
 {
 "mot":"REFUSER",
-"contraire":["ACCEPTER"],
+"contraire":["ACCEPTER","APPROUVER","ADMETTRE"],
 "difficulte":2
 },
 {
 "mot":"CONSTRUIRE",
-"contraire":["DÉTRUIRE"],
+"contraire":["DÉTRUIRE","CASSER","DÉMOLIR"],
 "difficulte":2
 },
 {
 "mot":"DÉTRUIRE",
-"contraire":["CONSTRUIRE"],
+"contraire":["CONSTRUIRE","CRÉER","RÉPARER"],
 "difficulte":2
 },
 {
 "mot":"APPARAÎTRE",
-"contraire":["DISPARAÎTRE"],
+"contraire":["DISPARAÎTRE","S'EFFACER","PARTIR"],
 "difficulte":3
 },
 {
 "mot":"DISPARAÎTRE",
-"contraire":["APPARAÎTRE"],
+"contraire":["APPARAÎTRE","SURGIR","VENIR"],
 "difficulte":3
 },
 {
 "mot":"NATUREL",
-"contraire":["ARTIFICIEL"],
+"contraire":["ARTIFICIEL","SYNTHÉTIQUE","FABRIQUÉ"],
 "difficulte":3
 },
 {
 "mot":"ARTIFICIEL",
-"contraire":["NATUREL"],
+"contraire":["NATUREL","ORIGINAL","AUTHENTIQUE"],
 "difficulte":3
-},
+}
+,
 {
 "mot":"SIMPLE",
-"contraire":["COMPLEXE"],
+"contraire":["COMPLEXE","COMPLIQUÉ","DIFFICILE"],
 "difficulte":2
 },
 {
 "mot":"COMPLEXE",
-"contraire":["SIMPLE"],
+"contraire":["SIMPLE","FACILE","BASIQUE"],
 "difficulte":2
 },
 {
 "mot":"PUBLIC",
-"contraire":["PRIVÉ"],
+"contraire":["PRIVÉ","SECRET","PERSONNEL"],
 "difficulte":2
 },
 {
 "mot":"PRIVÉ",
-"contraire":["PUBLIC"],
+"contraire":["PUBLIC","OUVERT","COLLECTIF"],
 "difficulte":2
 },
 {
 "mot":"VISIBLE",
-"contraire":["INVISIBLE"],
+"contraire":["INVISIBLE","CACHÉ","MASQUÉ"],
 "difficulte":2
 },
 {
 "mot":"INVISIBLE",
-"contraire":["VISIBLE"],
+"contraire":["VISIBLE","APPARENT","DÉTECTABLE"],
 "difficulte":2
 },
 {
 "mot":"BRUIT",
-"contraire":["SILENCE"],
+"contraire":["SILENCE","CALME","MUTISME"],
 "difficulte":2
 },
 {
 "mot":"SILENCE",
-"contraire":["BRUIT"],
+"contraire":["BRUIT","VACARME","SON"],
 "difficulte":2
 },
 {
 "mot":"COURAGE",
-"contraire":["PEUR"],
+"contraire":["PEUR","CRAINTE","LÂCHETÉ"],
 "difficulte":3
 },
 {
 "mot":"PEUR",
-"contraire":["COURAGE"],
+"contraire":["COURAGE","BRAVOURE","AUDACE"],
 "difficulte":2
 },
 {
 "mot":"ANCIEN",
-"contraire":["NOUVEAU"],
+"contraire":["NOUVEAU","RÉCENT","MODERNE"],
 "difficulte":1
 },
 {
 "mot":"NOUVEAU",
-"contraire":["ANCIEN"],
+"contraire":["ANCIEN","VIEUX","DÉPASSÉ"],
 "difficulte":1
 },
 {
 "mot":"DONNER",
-"contraire":["PRENDRE"],
+"contraire":["PRENDRE","GARDER","RECEVOIR"],
 "difficulte":1
 },
 {
 "mot":"PRENDRE",
-"contraire":["DONNER"],
+"contraire":["DONNER","RENDRE","CÉDER"],
 "difficulte":1
 },
 {
 "mot":"PREMIER",
-"contraire":["DERNIER"],
+"contraire":["DERNIER","FINAL","ULTIME"],
 "difficulte":1
 },
 {
 "mot":"DERNIER",
-"contraire":["PREMIER"],
+"contraire":["PREMIER","INITIAL","PREMIER NÉ"],
 "difficulte":1
 },
 {
 "mot":"AVANT",
-"contraire":["APRÈS"],
+"contraire":["APRÈS","PLUS TARD","ENSUITE"],
 "difficulte":1
 },
 {
 "mot":"APRÈS",
-"contraire":["AVANT"],
+"contraire":["AVANT","PRÉCÉDEMMENT","PLUS TÔT"],
 "difficulte":1
 },
 {
 "mot":"DEDANS",
-"contraire":["DEHORS"],
+"contraire":["DEHORS","EXTÉRIEUR","HORS"],
 "difficulte":1
 },
 {
 "mot":"DEHORS",
-"contraire":["DEDANS"],
+"contraire":["DEDANS","INTÉRIEUR","À L'INTÉRIEUR"],
 "difficulte":1
 },
 {
 "mot":"DROIT",
-"contraire":["GAUCHE"],
+"contraire":["GAUCHE","TORTUEUX","INJUSTE"],
 "difficulte":1
 },
 {
 "mot":"GAUCHE",
-"contraire":["DROIT"],
+"contraire":["DROIT","DROITE","DIRECTION DROITE"],
 "difficulte":1
 },
 {
 "mot":"VIVANT",
-"contraire":["MORT"],
+"contraire":["MORT","DÉCÉDÉ","INANIMÉ"],
 "difficulte":1
 },
 {
 "mot":"MORT",
-"contraire":["VIVANT"],
+"contraire":["VIVANT","ACTIF","ANIMÉ"],
 "difficulte":1
 },
 {
 "mot":"NAÎTRE",
-"contraire":["MOURIR"],
+"contraire":["MOURIR","DISPARAÎTRE","PÉRIR"],
 "difficulte":2
 },
 {
 "mot":"MOURIR",
-"contraire":["NAÎTRE"],
+"contraire":["NAÎTRE","VIVRE","REVIVRE"],
 "difficulte":2
 },
 {
 "mot":"ALLUMER",
-"contraire":["ÉTEINDRE"],
+"contraire":["ÉTEINDRE","COUPER","ARRÊTER"],
 "difficulte":1
 },
 {
 "mot":"ÉTEINDRE",
-"contraire":["ALLUMER"],
+"contraire":["ALLUMER","ACTIVER","DÉMARRER"],
 "difficulte":1
 },
 {
 "mot":"OUVRIR",
-"contraire":["FERMER"],
+"contraire":["FERMER","CLOSER","BLOQUER"],
 "difficulte":1
 },
 {
 "mot":"FERMER",
-"contraire":["OUVRIR"],
+"contraire":["OUVRIR","DÉBLOQUER","LIBÉRER"],
 "difficulte":1
 },
 {
 "mot":"RIRE",
-"contraire":["PLEURER"],
+"contraire":["PLEURER","TRISTESSE","SANGLOTER"],
 "difficulte":1
 },
 {
 "mot":"PLEURER",
-"contraire":["RIRE"],
+"contraire":["RIRE","SOURIRE","SE RÉJOUIR"],
 "difficulte":1
 },
 {
 "mot":"AIMER",
-"contraire":["DÉTESTER"],
+"contraire":["DÉTESTER","HAÏR","REJETER"],
 "difficulte":2
 },
+  
 {
 "mot":"DÉTESTER",
-"contraire":["AIMER"],
+"contraire":["AIMER","ADORER","APPRÉCIER"],
 "difficulte":2
-}
+},
+
+{
+    "mot": "ABONDANT",
+    "contraire": ["RARE", "INSUFFISANT", "MAIGRE"],
+    "difficulte": 3
+  },
+
+  {
+    "mot": "ABSTRAIT",
+    "contraire": ["CONCRET", "RÉEL", "TANGIBLE"],
+    "difficulte": 3
+  },
+  
+  {
+    "mot": "ABSOLU",
+    "contraire": ["RELATIF", "CONDITIONNEL", "LIMITÉ"],
+    "difficulte": 3
+  },
+  {
+    "mot": "ACTIF",
+    "contraire": ["PASSIF", "INACTIF", "ENDORMI"],
+    "difficulte": 2
+  },
+  {
+    "mot": "ADULTE",
+    "contraire": ["ENFANT", "MINEUR", "JUVÉNILE"],
+    "difficulte": 1
+  },
+  {
+    "mot": "AFFIRMER",
+    "contraire": ["NIER", "CONTREDIRE", "RÉFUTER"],
+    "difficulte": 3
+  },
+  {
+    "mot": "AGITÉ",
+    "contraire": ["CALME", "PAISIBLE", "TRANQUILLE"],
+    "difficulte": 2
+  },
+  {
+    "mot": "AGRÉABLE",
+    "contraire": ["DÉSAGRÉABLE", "DÉPLAISANT", "PÉNIBLE"],
+    "difficulte": 1
+  },
+  {
+    "mot": "AIGRE",
+    "contraire": ["DOUX", "SUCRÉ", "MIELLEUX"],
+    "difficulte": 2
+  },
+  {
+    "mot": "AIGU",
+    "contraire": ["GRAVE", "SOURD", "BAS"],
+    "difficulte": 3
+  },
+  {
+    "mot": "AIMABLE",
+    "contraire": ["DÉSAGRÉABLE", "RENFROGNÉ", "HOSTILE"],
+    "difficulte": 2
+  },
+  {
+    "mot": "ALOURDIR",
+    "contraire": ["ALLÉGER", "SOULAGER", "DÉLESTER"],
+    "difficulte": 3
+  },
+  {
+    "mot": "AMICAL",
+    "contraire": ["HOSTILE", "ENNEMI", "FROID"],
+    "difficulte": 2
+  },
+  {
+    "mot": "AMINCIR",
+    "contraire": ["ÉPAISSIR", "GROSSIR", "ÉLARGIR"],
+    "difficulte": 3
+  },
+  {
+    "mot": "AMPLIFIER",
+    "contraire": ["RÉDUIRE", "ATTÉNUER", "DIMINUER"],
+    "difficulte": 3
+  },
+  {
+    "mot": "AMUSANT",
+    "contraire": ["ENNUYEUX", "LASSANT", "MONOTONE"],
+    "difficulte": 2
+  },
+  {
+    "mot": "ANALYSE",
+    "contraire": ["SYNTHÈSE", "RÉSUMÉ", "GLOBALITÉ"],
+    "difficulte": 4
+  },
+  {
+    "mot": "ANIMAL",
+    "contraire": ["VÉGÉTAL", "MINÉRAL", "HUMAIN"],
+    "difficulte": 2
+  },
+  {
+    "mot": "ANTIPATHIE",
+    "contraire": ["SYMPATHIE", "AFFINITÉ", "ATTIRANCE"],
+    "difficulte": 3
+  },
+  {
+    "mot": "APPROCHER",
+    "contraire": ["ÉLOIGNER", "RECULER", "DISTANCIER"],
+    "difficulte": 2
+  },
+  {
+    "mot": "APPROFONDIR",
+    "contraire": ["EFFLEURER", "SURVOLER", "ABORDER"],
+    "difficulte": 4
+  },
+  {
+    "mot": "ARIDE",
+    "contraire": ["FERTILE", "HUMIDE", "LUXURIANT"],
+    "difficulte": 3
+  },
+  
 ]
